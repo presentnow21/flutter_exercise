@@ -1,4 +1,4 @@
-# blood_research
+# flutter exercise
 
 A new Flutter project.
 
